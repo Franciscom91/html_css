@@ -1,0 +1,24 @@
+.section-about {
+    width: 100%;
+    border-left: 25px solid $color-primary;
+    height: 384px;
+    margin-top: 144px;
+    margin-bottom: 144px;
+
+    .about-content {
+      padding: 58px 300px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      flex-wrap: wrap;
+      text-align: left;
+
+      h2 {
+        font-size: 39px;
+        font-weight: bold;
+        margin-bottom: 44px;
+      }
+    }
+  }
+  
+  
